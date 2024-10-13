@@ -13,7 +13,7 @@ from .gradio import *
 from .code_interpreter import PythonCodeInterpreter
 from .file_operation import WriteFile, ReadFile
 from .duckduckgo import DuckDuckGo
-
+from .pdf_read import PDFRead 
 
 def load_tools(name: str) -> BaseTool:
     name2tool = {
@@ -23,6 +23,7 @@ def load_tools(name: str) -> BaseTool:
         "write_file": WriteFile,
         "read_file": ReadFile,
         "google_search": GoogleSearch,
+        "read_pdf": PDFRead, 
         "text_to_speech": TTS,
         "image_caption": ImageCaption,
         "text_to_image": TextToImage,

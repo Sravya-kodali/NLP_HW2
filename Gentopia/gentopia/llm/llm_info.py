@@ -6,6 +6,7 @@ TYPES = {
     "gpt-4": "OpenAI",
     "gpt-3.5-turbo-16k": "OpenAI",
     "gpt-4-32k": "OpenAI",
+    "gpt-4o-mini": "OpenAI",
     "gpt-3.5-turbo-0613": "OpenAI",
     "gpt-4-0613": "OpenAI",
     "gpt-3.5-turbo-16k-0613": "OpenAI",

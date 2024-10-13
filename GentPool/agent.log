@@ -1,0 +1,796 @@
+INFO:root:Creating Config from file: ./gentpool/pool/Sravya/agent.yaml
+INFO:root:Starting to load configuration from ./gentpool/pool/Sravya/agent.yaml
+INFO:root:Successfully loaded configuration from ./gentpool/pool/Sravya/agent.yaml
+INFO:root:--------------------
+INFO:root:[green]Welcome to Gentopia!
+INFO:root:--------------------
+INFO:root:[green]User: 
+INFO:root:Sravya is thinking...
+INFO:root:Done
+INFO:root:[blue]Sravya: 
+INFO:root:{"name":"read_pdf", "arguments":{"url":"https://files.eric.ed.gov/fulltext/EJ1384682.pdf"}}
+
+INFO:root:Calling function: read_pdf ...
+INFO:root:Done
+INFO:root:--------------------
+INFO:root:European Jo urnal of Educational Sciences, March 2023 edition Vol.10 No.1  ISSN: 1857 - 6036 
+ 
+17 
+ The Impact of Artificial Intelligence on Higher Education: An Empirical 
+Study  
+ 
+Zouhaier Slimi  
+Deusto University -Spain 
+National University of Sciences and technology Oman 
+ 
+  Doi:10.19044/ejes.v10no1 a17                                    URL:http://dx.doi.org/10.19044/ejes.v10no1a17   
+ 
+ 
+ 
+Submitted: 25 September 2022  
+ 
+Copyright 2022 Author(s)  
+Accepted: 01 March 2023 Under Creative Commons BY -NC-ND 
+Published: 31 March  2023 4.0 OPEN ACCESS  
+   
+Abstract:   
+Artificial intelligence (AI) has been a topic of growing interest and investigation in various 
+fields, including higher education. This research article explores the impact of AI on higher 
+education by examining its effects on teaching and learning, assess ment, ethics, required skills, and 
+future careers. The aim of this study is to analy se the influence of AI on higher education, 
+investigate its impact on the teaching and learning process, examine its effect on assessment and 
+grading, and predict its influ ence on graduates' future careers. To accomplish this, the study 
+employs a qualitative approach based on a survey of the higher education audience.  The results of 
+this study demonstrate the crucial role of AI in the future of higher education. The findings  
+highlight the effectiveness and efficiency of AI in equipping graduates with new skills for their 
+future careers. They also emphasi se the importance of considering the ethical implications of AI. 
+The study reveals that higher education institutions need t o integrate AI more extensively in their 
+programs to prepare graduates for the future workforce.  
+AI has the potential to revolutionize education by personalizing teaching methods to suit individual 
+student needs, providing prompt feedback, and automating a dministrative tasks. It can also assist 
+in grading and assessment, freeing educators to focus on developing curriculum and providing 
+quality instruction. The study findings suggest that AI has a positive impact on the learning 
+experience by facilitating th e acquisition of new knowledge and skills.  This research provides 
+insights into the potential of AI to transform higher education and contribute to the development 
+of new skills for graduates. It has important implications for educators, policy -makers, and  other 
+stakeholders in the higher education sector. The study findings suggest that AI should be more 
+extensively integrated into higher education curricula, and that institutions need to consider the 
+ethical implications of AI in the development and imple mentation of their programs. By doing so, 
+they can better prepare graduates for the demands of the future workforce.  
+ 
+Keywords:  AI; Higher education; impact; learning & teaching   
+ 
+  European Jo urnal of Educational Sciences, March 2023 edition Vol.10 No.1  ISSN: 1857 - 6036 
+ 
+18 
+ 1.      Introduction:  
+     Artificial intelligence (AI) is a vast branch of computer science concerned with 
+developing intelligent computers capable of doing tasks that typically need human intelligence. 
+Siri, Alexa, self -driving cars, Robo -advisors, talking bots, and email spam fil ters are examples 
+of AI (Stanford Encyclopaedia  of Philosophy, 2020) . AI is the world’s new trend as it has 
+proved more efficient in m any fields, mainly during the COVID -19 pandemic (Vaishya et al., 
+2020). AI helped fight the virus and globally rescued jobs and educational systems (UNESCO, 
+2020). Thus, it is vital to shedding light on how AI will impact one of the essential areas of life, 
+higher education. This research article studies how AI impacts higher education based on 
+previous studies and participants’ experienc es, views, and predictions.  
+2.       Literature review  
+      Currently, AI has become a vital part of the virtual world. Unquestionably, AI plays an 
+important  role in general education and higher education (Edtech, 2020) . For example, the 
+efficient uses of filtering emails, advertising, applications, YouTube, and virtual assistants such 
+as Google, digital libraries, Goog le Scholar, and other digital research engines in any higher 
+institution worldwide (García-Vélez et al., 2021) . However, AIoth is weak and robust, 
+according to Ma & Siau (2018). In other words, Ma and Siau (2018 ) label AI as fragile when 
+it is limited to small, restricted,  and structured tasks such as collecting data. The latter 
+researesearchersAI as sharp and robust when performing most or all cognitive tasks are 
+typically human (Beight & Reddell, 2005) . Although AI plays a vita l role currently, the 
+researchers mentioned above consider AI a threat to human civilisation and support their 
+argument with what experts in the field think about AI, such as Bill Gates, Elon Musk and 
+Stephen Hawking (Ma & Siau, 2018) . Undeniably, what is mentioned above about AI is vital. 
+Still, at the same tim e, it is questionable for any critical -thinking reader as any further 
+investigation remains possible, and the truth is never absolute. So, how would AI impact the 
+learning and teaching processes?  
+2.1         AI impact on the learning and teaching process  
+           Dealing with the impact of AI on learning and teaching in higher education, it is 
+evident that AI will impact higher education in many ways and mainly in two focal areas: 
+enrollment and curriculum (Taneri, 2020) . For instance, Ma and Siau (2018) maintain that AI 
+will speed consistency and accuracy in curriculum and registration. Furthermore, according to 
+Ma and Siau (2018), hum an sciences and liberal arts majors will become more popular because 
+these areas of study are less vulnerable to the field of AI than other areas, such as accounting 
+and finance (Ma & Siau, 2018) .  
+          Although this study is essential for a load of information on the influence of AI on 
+higher education, it  can be criticised for not tackling the issue genuinely, as the impact is much 
+more profound. Indeed, focusing on the learning and teaching process, no one would doubt 
+that AI is replacing the lecturer or tutor in many ways, such as blended learning and e -learning. 
+The presence of an e -learning lecturer is limited as the learner interacts with a virtual 
+classroom, whether on Blackboard, Moodle, Turnitin or any other platform (Jlu & Laurie A, 
+2018). Equally,  Professor Roland T Chin from Hong Kong Ba ptist University (2018) believes 
+that AI is meant to revolutionise how we learn, teach, work, live, make decisions, and be ready 
+for the AI era. Therefore, AI is not only about its superficial effect, but about radical changes 
+in the teaching and learning process in depth (Chin, 2018) .   
+What reinforces this idea conditionally is the argument from Princeton’s Head of 
+Computer Science, Jennifer Rexford. She surmises that AI is efficient in learning and European Jo urnal of Educational Sciences, March 2023 edition Vol.10 No.1  ISSN: 1857 - 6036 
+ 
+19 
+ teaching if others learn:  “Learning  how people learn will hopefully help us and others think 
+more broadly about retraining down the road” (Rexford, 2018) . Hence, according to 
+Jennifer, the efficienc y of AI is provisional, as understanding learning styles is the only key 
+to success. Alike, Jabar and Yousif (2011) argue that the learning process in this world is 
+becoming more interactive and engaging, according to recent researchers, because e -
+learning provides the learner with artistic and pedagogical features as well as incorporates 
+and deals with countless types of content which react effectively to the students’ needs 
+(Jabar and Yousif, 2011) .  
+The absence of striking examples of how AI impacts the learner’s daily life can be 
+a limitation of the approach of  Jabar and Yousif, highlighted below in the Education and 
+Unit Study. For example, AI provides deep learning and teaching processes to get high er 
+performance from both the tutor and the tutee. For example, adopting hypermedia for a 
+writing class facilitates mistakes and reduces time consumption. For example, before 
+discovering AI, it took ages for a teacher to assess and grade papers and check fo r 
+plagiarism. Thanks to AI, checking for academic integrity and language issues takes 
+minutes or less. Indeed, using artificial intelligence,  a lecturer submits the work to Turnitin, 
+Grammarly, or other software. In minimal time, it can provide constructiv e feedback based 
+on the results generated by the software used.  
+Although  AI is perfect in covering language and academic integrity issues, 
+semantic, pragmatic, and cognitive levels, in many cases, require the intervention of the 
+human mind to perform the last touch  (Mellul, 2018) . Nevertheless, AI offers various 
+learners links about the topics required by the subject matter and eases and inspires both 
+learner and tutor by addressing different learning styles such as autonomous learning, visual 
+learning, e -learning, audio -visual learning, and deep learning. Equally, AI enables the tutor 
+to select and apply the learning method taxonomy that the learner needs and highlights the 
+areas of improvement to be focused on (Jabar and Yousif, 20 11).   Meanwhile,  AI reinforces 
+independent learning as the learner becomes autonomous and free to access input anytime 
+and anywhere. Finally, according to Richer (1985) , AI positively influences education by 
+providing intelligent computer -assisted inst ruction that facilitates learning intuition and 
+provides expert systems to diagnose and assess learning outcomes  (Richer, 1985) . It is 
+undoubtedly clear that AI adds a lot to the learning and teaching process, so what about 
+assessments and grading?  
+ 
+2.2       Impact of AI  on the assessment  and classification  process  
+AI does not impact only the learning and teaching process but also the assessing and 
+grading process. For instance, AI checks assignments and research projects through 
+software such as Turnitin against billions of resources in no time. Consequently, simila rities 
+are easily  generated  to judge whether the learner plagiarised. Similarly, online rubrics and 
+grading forms are added to assignments with criteria and scales, and final grades are 
+automatically added to the submitted work without any hassle (Mahana et al., 2012) . 
+Furthermore, AI offers interactive way s of providing constructive feedback to the learner, 
+easy access in a relaxed manner anytime and anywhere, with more privacy and autonomy. 
+Additionally, the instructor can write or record feedback to facilitate and improve learning 
+from errors.  
+Also, referring to a study by Stanford University, AI is applied to evaluate students’ 
+responses and create a computer model that endorses  rules inferred from the tutor's grading European Jo urnal of Educational Sciences, March 2023 edition Vol.10 No.1  ISSN: 1857 - 6036 
+ 
+20 
+ decisions. What is specific about AI is that it improves learning instead of making a fi nal 
+authoritative decision. In addition,  it reflects more transparency, trust, and quality control 
+(Stanford U niversity, 2019) . In the same context, Tovia Smith, in her article “More states 
+opting to Robo -Grade’ Student Essays by computer,” argues that rob -graders ( robots used 
+for grading students’ papers) are increasingly used to grade students’ essays mainly  in Utah, 
+Ohio and soon Massachusetts to follow (Brad Rose Consulting, 2019) . Similarly, a research 
+professor at Colorad o University named Peter Foltz says they have AI techniques that can 
+judge up to 100 features and that grading essay is highly accurate (Brad Rose Consulting, 
+2019). In short, artificial intelligence  is playing a more prominent role in the evaluation  and 
+classification of  higher education in the United States of America.  
+Though the above studies are valuable from different perspectives in addressing the 
+role of AI in grading and assessing the learner and facilitating the role of the instructor, a 
+critical thinker would not fail to pose the following questions: What about b ias in marking 
+reports? Who would guarantee that AI is fair and objective? What about the human side of 
+the learning process and assessment? Will AI consider the psychology of learner grading 
+or assessing a paper?  
+ 
+2.3       AI Impact  on Future Careers of Gra duates  
+AI affects the world of education, but it also seems restricted to this area and follows 
+the learner even after graduation. For instance, according to Wang and Si au (2017), AI will 
+impact the future job market of required skillsets.  It will replace many other studies that 
+involve routine tasks and structures that are easy to automate instead of unstructured 
+disciplines that require complex cognitive interference (Wang & Siau, 2017) . AI or 
+computer assessment is not limited to grading papers but can be the gateway to a future 
+career. For instance, a human may not read CVs but be screened by an algorithm specialised 
+in candidate shortlisting. As an ex ample, in an article by the Economist entitled “How 
+algorithms may decide your career: getting a job means getting past the computer”, it is 
+reported that the largest firms are now using computer programs or algorithms to select 
+candidates with an applican t tracking system (ATS) which can reject up to 75% of 
+candidates. The above policy pushed applicants to use keywords to maximise  screening 
+interests (Brad Rose Consulting, 2019) .  
+Vodafone and Intel are not satisfied with shortlisting CVs but instead use a 
+computer -driven visual interviews service called “HireVue ” to further select candidates. In 
+this process,  AI analyses facial expressions and language patterns and decides to pass or 
+fail the applicant (Brad Rose Consulting, 2019) . According to a study by Frey & Osborne 
+(2013), the number of jobs at risk that will be computerised and include advances in robotics 
+and machine learning is roughly 47% of US total employment  (Frey & Osborne, 2013) . 
+Likewise, Dizikes (2020) re fers to research conducted by Daron Acemoglu and Pascual 
+Resrego from MIT   University that each added robot replaces 5.6 workers, almost equal to 
+six people  (Dizikes, 2020) .  
+Similarly, similar research conducted by Ma & Siau (2018)  of Oxford University 
+argues that within the next 20 years, around 47% of jobs in the United States of America 
+and almost 54% in Europe are at risk due to AI  (Ma & Siau, 2018) . Additionally, the latter 
+researchers at Oxford University forecast that AI will write hi gh-school essays by 2026, 
+write best -selling books by 2049, translate languages by 2024 and perform surgeries by 
+2053. Chin (2018) from Hong Kong University argues that there are overlooked AI European Jo urnal of Educational Sciences, March 2023 edition Vol.10 No.1  ISSN: 1857 - 6036 
+ 
+21 
+ examples or less obvious ones such such  as translation machines  that enable you to speak 
+to anyone with any language instantaneously. Chin (2018) added that JPMorgan Chase and 
+Co use a learning machine that deals with loan agreement  processes and saves 360 000 
+hours of work by accountants and lawyers (Chin, 2018) . 
+Although all the values stated above about how AI is creeping into the career world, 
+Ma and Siau (2018) criticise these aspects arguing that when it comes to soft skills such as 
+empathy, communication, collaboration, innovation,  critical thinking, problem solving,  and 
+leadership, AI is not as robust as human cognitive ability (Ma & Siau, 2018) . Both 
+researchers reinforce their views by suggesting that  higher institutions should provide soft 
+and hard skills such as maths, IT, and engineering while training students. They think AI 
+may not be capable of affording these skills for future business careers (Ma & Siau, 2018) . 
+Although computer -driven screening is believed to avoid biases in the traditional 
+recruitment process, AI is not bias -free. That algorithm can favour  candidates with time 
+and money to continually re-tool their resumes (Brad Rose Consulting, 2019) . 
+To end the conflict with a culminating result, Chin (2018)  argues that citizens of the 
+new world order require new skills. These skills should include int erpersonal skills such as 
+adaptability, critical thinking, conflict resolution capabilities,  and other cognitive skills. 
+Steve Jobs thinks, 'It is technology married with the liberal arts, married with the humanities  
+that yields us the results that make ou r heart sing' (Henn et al., 2005) . How would higher 
+education impact AI?  Undoubtedly, the world is getting more innovative, and AI has 
+rehabilitated our world by putt ing natural languages and data by enabling Siri, Netflix, 
+Facebook, Google, Alexa, Amazon, and many other platforms as part of our daily life 
+(Oblinger, 2018) . However, the que stion arises: How will higher education affect AI? This 
+research paper will address these issues from the two focal points of ethics and cognition 
+as answers to these issues.  
+ 
+2.4       Cognitive and ethical impacts of higher education on AI  
+Dealing with ethics in AI is a lecturer in learning science and innovation at the 
+Institute of Educational Technology in the UK. Holmes  (2018), discussing the impact of AI 
+on education, raised the importance of adopting ethics in AI education. The same lecturer 
+argues that whether we like it or not, AI is being deployed in higher institutions worldwide 
+and significantly impacts the future of higher education. Similarly, he adds that by 2024 the 
+global AIED market will be worth 4.5 billion pounds. Companies such as Googl e, 
+Facebook, and Amazon invest millions of dollars in developing AI in education (Drabwell, 
+2018).  
+However,  Holmes (2018) believes that 'adaptive'  or 'personali sed' ethical learning 
+systems are not entirely taken into account. He also stressed that  there is a 'moral vacuum'  
+without guidelines, policies, regulations,  or research done to stress the specific ethical 
+issues raised by AI in education (Holmes, 2018) . The question is not a question of data for 
+him, but instead is an issue o f morality and that is why he asks: “How can we be sure that 
+the data are accurate, who owns and controls the data, and how is student privacy 
+maintained?”  According to Holmes (2018), AIED ethics should not be reduced to 
+questioning data and controlling th e potential of bias that is incorporated in AIED 
+computational approaches, algorithms, and the decisions taken by the AI’s deep neural 
+networks that are not quickly inspected and that he describes as “known unknowns” 
+(Holmes, 2018) .” Whether anyone likes it or not, AI has quietly entered the university European Jo urnal of Educational Sciences, March 2023 edition Vol.10 No.1  ISSN: 1857 - 6036 
+ 
+22 
+ campus, but little attention has been paid to ethics. To give just one example, what happens 
+if a student is subjected to a  limited set of algorithms that impact negatively and incorrectly 
+on their assessments?” What is inferred from this study is that higher education should give 
+more importance to the ethical part while teaching AI.  
+To address the ethical issue of AI,  and as an example, Open University in the UK 
+conducted workshops involving researchers around the world  on AIED in 2018  at the AI 
+in Education  International Conference. Participants  considered the importance of doing 
+empirical work to address systematic biases in learning machine models and create 
+impenetrable algorithm  black boxes and AI ethics -driven courses. Therefore, Open 
+University started using “Chatbots”, an internet -based program designed to simulate 
+conversation with users. Communicates  through text me ssages through websites, 
+applications, or instant messengers to support students and staff (Drabwell, 2018) . 
+Likewise, higher education institutions should think  of security and privacy issues. When 
+it comes to AI, these burning issues, despite the rosy promises of AI humans, have to 
+address this ethical issue, with intelligent systems monitoring our faces 24 hours a day with 
+only a few elements of our private lif e remaining untouched. Are there legal frameworks, 
+policies, or ethical codes to control the brutality of AI? Moreover, we should consider robot 
+cops and their ability to kill and hold them without human ethics.  
+AI raises many social issues that are more complex than technological ones, such as ethics, 
+privacy, and inequality, which entails that we need STEM and technology graduates and 
+graduates who are deeply grounded in humanities and arts. With liberal arts education, 
+intellectual and ethical grow th will be an opportunity that integrates compassion, civic -
+minded citizens, responsibility, and ethics.  
+ 
+2.5       Cognitive impact of higher education on AI  
+      Thinking cognitively, AI has made it a present -day reality that imitates  humans in 
+many functi ons such as language translation, medical diagnostics, and decision making.  If 
+humans interact, analyse, deduce, think logically, and reason contextually, AI performs 
+these actions artificially based on powerful computers, high -speed internet connections, 
+algorithms and extensive real -time data (Chin, 2018) . 
+However, unlike humans’ AI performs fixed and domain -specific tasks with 
+unmatched learning speed, extensive data, excellent efficiency and unlimited computing 
+capacity. On the contrary, humans learn flexibly, pose, and solve issues creatively, think 
+critically, and innovate adaptively (Chin, 2018) . Despite the above facts about humans, AI, 
+deep learning, and ample data supply, AI has surpassed average human performance in 
+manufacturing automation and face recognition. For exa mple, it is expected to perform 
+enormous tasks (Chin, 2018) . Professor Ronald T Chin relates a story of two robots trained 
+to communicate at a sophisticated level. They were found later speaking to each other in a 
+language th ey had developed, which spooked the scientist and caused him to shut down the 
+project. Therefore, AI may not be as cooperative as expected (Chin, 2018) . Here lies the 
+question, what have higher education institutions done to monitor and control the cognitive 
+wilderness of AI? The issue is not creating a sophisticated language that humans would not 
+grasp, but more than that. Even more astonishing is that  their idea of embedding AI in 
+human intelligence is forthcoming. Scientist s think of hardwiring human brains to implant 
+a neuro-electronic chip into human heads, enabling communication via voice or texts 
+through the cloud to brain signals that connect the internet (Chin, 2018) .  European Jo urnal of Educational Sciences, March 2023 edition Vol.10 No.1  ISSN: 1857 - 6036 
+ 
+23 
+ Recently in 2017 an d in many TV talk shows around the world,  a humanoid robot 
+named Sophia developed in Hong Kong dazzled audiences by officially joining a recent 
+United Nations Summit as a panelist to address issues of inequality  and said: “The future 
+is already here. It is not very evenly distributed. If we are smarter and focused on win-win 
+results, AI could help to efficiently  distribute the existing resources of the world, such as  
+food and energy”  (Guardian News, 2017) . Again, where is the role of the higher institution 
+in creating a boundary for empowering the AI with highly sophisticated cognitive skills 
+that transgress the human mind and frees itsel f from the human aspect as the robot killer 
+and robot cop and perhaps much more? Against this tremendous growth in the AI world, 
+one should not forget that progress has been made by improving people and not improving 
+machines, as the science fiction author  Tchaikovsky (2018)  argues.   In short, this statement 
+empowers humans over AI because any cognitive intelligence AI owns, first of all, is 
+inherited or programmed by a human mind that can ultimately  control this potential (Chin, 
+2018).  
+ 
+3.         Situation of the problem  
+The twenty -first century has posed many challenges to the new world order. The 
+influence of AI on higher education and the impact of higher education on AI are two 
+crucial areas, among many others, worth studying (United Nations, 2018) . Thus, the 
+research questions of this article are: What is the impact of AI on higher education? 
+Alternatively, how is higher education going to impact AI?  
+Aims of the study  
+[1] To study the impact of AI on higher education.  
+[2] Investigate  the impact of  AI on the learning and teaching process.  
+[3] To study AI impact on the assessments and grading process  
+[4] To predict the impact of  AI on future careers of graduates  
+ 
+4.       Method  
+          This research paper uses objec tivism as a philosophy, as the data collected are based 
+on perceptions, feelings, and experiences. Objectivism entails realism, and ontologically, it 
+considers social entities as physical ones making the world independently (Saunders et al., 
+2009). Therefore , this article uses the qualitative method to investigate the topic raised. The 
+qualitative approach focuses on collecting data from people’s experiences, views, and 
+feelings dealing with AI in higher education and life in general (Hammersley, 2012) . A 
+qualitative survey wa s used to ensure the quality and authenticity of the data collected. The 
+survey comprises ten questions aligned with the research paper topic forwarded to 
+participants via Office 365 Form (Treharne & Riggs, 2015). The survey targeted an 
+audience made of higher education students (50), academic staff (34), decision -makers and 
+managers (8). The audience comprises international academic staff, students, managers, 
+and decision -makers with different cultural an d educational backgrounds. Overall, 92 
+participants responded that they are both men (62) and women (30) aged between 20 and 
+60 years and are current students and academic staff from different institutions. The survey 
+link was shared on Facebook with selec ted colleagues and alums students who have a 
+background in higher education and AI to ensure the validity of data collected from 
+different countries during the academic year 2020 -21. The first question was created to 
+ensure that participants belong to the higher education field. If not, then he/she is eliminated European Jo urnal of Educational Sciences, March 2023 edition Vol.10 No.1  ISSN: 1857 - 6036 
+ 
+24 
+ automatically. The survey targeted participants worldwide via a link  forwarded via emails, 
+Facebook, and WhatsApp to ease participants’ contribution (Liang & Zhu, 2017) .  
+ 
+Figure 1. Participants’ educational level  
+ 
+4.1       Material  
+Data collection was based on primary and secondary data. The preliminary data was 
+collected through a qualitative survey and secondary data was collected by investigating 
+previous studies. The secondary data used mainly academic resources from the Web of 
+Science, Scopus, ERIC and Emerald, and limited grey literature.  
+ 
+4.2       Data analysis  
+Data analysis is deconstructing data and breaking down data collected into 
+categories and codes. Then, interpretation by giving a sense of and understanding of the 
+principles generated and exploring theories would help explain relationships. Finally, 
+reconstruct data by sy stematically recreating and repackaging the significant themes and 
+codes (Sergeant, 2012).  
+5.      Findings  
+The results collected through the survey reveal that AI will significantly impact 
+higher education in many areas, such as learning and teaching method s, assessing and 
+grading, skills required for future work, and future graduate careers.  
+ 
+5.1       AI impact on the learning and teaching process  
+First, concerning the idea that AI affects higher education,  the results reveal that 
+most agree with 73 “Yes” that AI affects higher education. However, 17 participants think 
+'Maybe' and only 2 say 'No' AI will not impact higher education.  
+Graduate & Post 
+graduate
+92%
+Undergraduate 
+8%Participants' educational level 
+Graduate & Post graduate
+UndergraduateEuropean Jo urnal of Educational Sciences, March 2023 edition Vol.10 No.1  ISSN: 1857 - 6036 
+ 
+25 
+  
+Figure 2. Impact of  AI on higher education  
+ 
+AI uses better learning styles and teaching methods in higher education than 
+humans. The responses reveal that 40 participants strongly agree, 14 agree that AI uses 
+better learning styles and teaching methods than humans , compared to 19 participants who 
+disagree, 6 strongly disagree, and 23 are neutral.  
+ 
+ 
+Figure 3.  AI uses better learning and teaching styles than humans. 
+ 
+5.2       Impact of AI  on the assessment and classification  process  
+Concerning the effects of AI on assessments and classification, the  vast majority of 
+participants, 64, strongly agree that AI is more effective, accurate, and objective in 
+evaluating  and grading complex and straightforward tasks than humans. However, 19 
+participants were neutral, 2 strongly disagreed, and 7 disagreed.  
+79%
+2%
+19%
+ 19%AI impacts on higher education. 
+Yes
+No
+May be
+Strongly 
+disagree
+7%
+Disagree
+10%
+Neutral
+25%
+Agree
+15%
+Strongly agree
+43%AI uses better leaning and teaching styles 
+than humans do
+Strongly disagree
+Disagree
+Neutral
+Agree
+Strongly agreeEuropean Jo urnal of Educational Sciences, March 2023 edition Vol.10 No.1  ISSN: 1857 - 6036 
+ 
+26 
+  
+Figure 4.  AI impact on assessment and grading process  
+ 
+5.3       AI Impact  on Future Careers of Graduates  
+Regarding the fact, how will AI impact the future career of higher education 
+students?  Findings reveal that 50 participants think the impact will be positive, and 3 think 
+the effect will be negative. However, 39 believe that the effect will be negative a nd positive, 
+with no participants saying there will be no impact.  
+ 
+ 
+Figure 5.  Impact of AI on future careers  
+ 
+Likewise, results reveal that 76 think “Yes” we need to teach students new skills 
+to meet future career requirements dictated by AI, only 2 parti cipants think “no”, and 14 
+think “Maybe”.  
+1%
+ 4%
+10%
+10%
+25%
+50%AI is more effective, accurate, and objective 
+in assessing and grading simple and 
+complex tasks compared to humans.
+Strongly disagree Disagree Neutral Agree Strongly agree
+54%
+3%
+43%
+0%
+43%AI impacts on future careers
+Positively
+Negatively
+Both negatively &
+positively
+No impact at allEuropean Jo urnal of Educational Sciences, March 2023 edition Vol.10 No.1  ISSN: 1857 - 6036 
+ 
+27 
+  
+Figure 6 . Teaching new skills to meet the requirements of AI  
+ 
+Correspondingly, 21 participants preferred  to be interviewed by human rather than 
+robots, of 71 liked robot interviewers, as explained by the following figure.  
+ 
+ 
+Figure 7 . Prefers to be interviewed by a robot or a human. 
+ 
+The results  reveal that 50 participants think shortlisting should be done manually 
+compared to 42 who believe it should be AI.  
+83%
+2%
+15%Do we need to teach students new skills to 
+meet future jobs dictated by AI?
+Yes No May be
+Robot
+23%
+Human
+77%As a job applicant, do you prefer to be 
+interviewed by a robot or a human?
+Robot
+HumanEuropean Jo urnal of Educational Sciences, March 2023 edition Vol.10 No.1  ISSN: 1857 - 6036 
+ 
+28 
+  
+Figure 8 . Candidate  shortlisting manual or via AI  
+ 
+5.4       Cognitive and ethical impacts of higher education on AI  
+Concerning the impact of higher education on AI  from the ethical and cognitive 
+levels, 45 participants think higher education impacts the ethical, cognitive, and human 
+sides. Overall, humanity comes second with 19 votes, cognitive ability with 17 votes, and 
+ethics with 1 1 votes.  
+ 
+Figure 9 . Cognitive and ethical impacts of higher education on AI  
+ 
+        Similarly, vis -à-vis the robotisation  of academic staff, the majority did not 
+accept replacing academic staff with robots in higher education, as 27 strongly 
+disagreed, and 22 disagreed. Whereas 7 strongly agreed, 20 agreed, and 16 were neutral.  
+54%
+46%As a manager recruiting staff for your 
+company, how will you shortlist candidates?
+Shortlist candidates
+manually
+Shortlist candidates
+automatically
+12%
+18%
+21%
+49%Concepts that will be impacted by AI
+Ethics Cognitive abilities Humanity All of the aboveEuropean Jo urnal of Educational Sciences, March 2023 edition Vol.10 No.1  ISSN: 1857 - 6036 
+ 
+29 
+  
+Figure 10 . Replaces academic staff with robots 
+ 
+6.       Discussion  
+6.1        AI impact on the learning and teaching process  
+       The impact of AI on higher education is made clear as 79% of the participants think 
+“Yes” compared to 19% who think “Maybe” and only 2 % who contradict the idea by 
+saying “No”. These results support what was discussed earlier  in the literature review 
+(Rexford, 2018)  in reinforcing the idea that AI will significantly impact the future o f higher 
+education (Tuomi et al., 2018) . Likewise, regarding  the efficiency of AI in learning and 
+teaching, a big part of the participants believe that AI is more efficient than humans: 43 % 
+strongly agree, and 15% agree with this idea, in contrast with 7% who strongly disagree, 
+10% who disagree, and 25 % are neutral. Again the results agree strongly with Brad Rose's 
+thoughts (Brad Rose Consulting, 2019)  and discussed earlier in Mahana, Johns and Apte 
+(2012).  
+ 
+6.2        Impact of AI  on the assessment and classification  process  
+       Similarly, regarding AI's efficiency, accuracy, and objectivity in assessing learners, 
+results reveal that the majority agree with this point, as 25% strongly agree and 50% agree, 
+compared to 10% strongly disagree, 4% disagree, and 1 % who are neutral. The  findings 
+agree with Brad Rose's (2019) perceptions about AI's efficiency in grading and accuracy 
+(Brad Rose Consulting, 20 19). The results agree with what Brad Rose Consulting (2019) 
+believes and Chin (2018) believes.  
+ 
+6.3        AI Impact  on Future Careers of Graduates   
+       The last point concerns the impact of AI on students’ future careers. The findings 
+say that those who think it will negatively impact future careers of students  are as follows: 
+54 % believe it will positively impact them. In comparison, 43% believe positiv ely and 
+negatively, and 3% think that  AI will negatively impact future careers. Therefore,  the 
+findings agree again with what was discussed in the literature review by Global Business 
+Outlook (2018) and Chin (2018). Additionally, regarding the recruitment recruitment 
+recruitment recruitment  process using AI, the the the the  findings reveal that the majority 
+of the majority of the majority of the majority of the  most substantial  prefer a manual 
+Strongly disagree
+29%
+Disagree
+24%
+Neutral
+17%
+Agree
+22%
+Strongly agree
+8%
+Other
+30%Replace academic staff with robots 
+Strongly disagree
+Disagree
+Neutral
+Agree
+Strongly agreeEuropean Jo urnal of Educational Sciences, March 2023 edition Vol.10 No.1  ISSN: 1857 - 6036 
+ 
+30 
+ method with a percentage of 54%, compared  to a minority choosing  an artificially 
+intelligent approach with a percentage of 3%, and this is an example that justifyes  their 
+choice: “I prefer to be assessed by a human because a human can understand what you 
+mean more than a robot. For example, in exams, students can write an answer that makes 
+sense but is not available in the book so that the robot can mark that as a wrong answer, 
+but the human will mark it as a right answer. ' 
+    The latter results contradict what was discussed in the literature  review, as 
+researchers think that automation will be used in interviewing and shortlisting candidates 
+(Wang & Siau, 2017)  and (Global Business Outlook, 2018) . Similarly, 77% of participants 
+prefer a human to 23 % who fancy robots being interviewed by robots or humans. This 
+finding is not reflected deeply in Frey and Osborne's (2013 think) and is used nowadays by 
+Vodafone and other organisations, as mentioned earlier in the literature review . 
+Finally, concerning the necessity to learn new skills to meet the requirements of the 
+AI era, the the the the the  findings reveal that 83% of the the the the the  participants think 
+'Yes'. In comparison, 15% assume “Maybe”, and only 2% feel “No.” Therefore, the results 
+agree strongly with what was discussed in the literature review that higher education 
+institutions should prepare learners for the new world order of AI (Frey and Osborne, 2013).  
+ 
+6.4        Cognitive and ethical impacts of higher education on AI  
+       Regarding the impact of higher education on AI ethically, humanly and cognitively, 
+49% of the participants think higher education should impact the human, cognitive and 
+ethical aspects. However, 21% of the contributors believe in the human element compared  
+to 18% who favour cognitive abilities as a second priority, and only 12% thought ethically. 
+The findings reveal a significant concern with all aspects together, which is in harmony 
+with what was raised earlier in the literature review in that AI should go  hand in hand with 
+ethics, as Chin (2018) (Chin, 2018)  argues when he talked about liberal arts, humanity and 
+AI combination. Not only Chin (2018) raised this point but also Guardian News (2017) and 
+the example of human -robot talking about equality in the world,  as well as Holmes (2018)  
+as he focused a lot on putting ethical rules for AI.  
+ 
+7.     Recommendations:  
+Based on the findings and issues raised in this research paper, the researcher 
+recommends that applying AI in higher education is a requirement for all higher institutions. 
+However, AI appliance suggests that academic staff should be well trained in using AI to 
+equip learners with the required skills to face future care challenges. Similarly, the 
+researcher recommends highlighting ethics and humanity first when teaching AI, as it 
+threatens humankind without these values. Furthermore,  privacy and dignity should be 
+respected and protected by regulations and international laws, as AI can be used without 
+limitations and violate human freedom. Finally, higher education institutions should control 
+AI, make it serve and not destroy and dehumanise h umankind.  
+ 
+8.     Conclusion  
+This research paper investigated the impact of AI on higher education. Therefore, it 
+stressed AI's human, ethical and cognitive impacts on the future of humanity in general and 
+students and their future careers. Consequently, AI  affects the learning and teaching 
+process. For instance, a large part of the participants believe that AI is more efficient than European Jo urnal of Educational Sciences, March 2023 edition Vol.10 No.1  ISSN: 1857 - 6036 
+ 
+31 
+ humans when it comes to learning and teaching: 43% strongly agree and 15% agree with 
+this idea, in contrast with 7% who strong ly disagree and 10% who disagree, and 25% are 
+neutral. The latter finding goes hand in hand with the literature review findings suggested 
+by (Chin, 2018; Ma and Siau, 2018; and Jabar and Yousif, 2011). 
+Similarly, regarding AI's efficiency, accuracy, and ob jectivity in assessing learners, 
+results reveal that the majority agree with this point as 25% strongly agree, 50% agree 
+compared to, 10% strongly disagree, 4% disagree, and 1% are neutral. Findings meet with 
+the argument of (Mahana et al. 2012; Stanford U niversity, 2019; and Brad Rose consulting 
+2019). Additionally, regarding the process of recruiting using AI, findings reveal that the 
+most substantial majority prefer a manual method with a percentage of 54% as contrasted 
+to a minority choosing an artifici ally intelligent approach with a percentage of 3%, and this 
+is an example justifying their choice: "I prefer to be assessed by a human because a human 
+can understand what you mean more than a robot. Therefore, the results agree strongly with 
+what was discu ssed in the literature review that higher education institutions should prepare 
+learners for the new world order of AI (Frey and Osborne, 2013; Oxford University, 2019). 
+Finally, academic professionals should be well trained  in artificial intelligence  to provide 
+learners with the necessary skills to handle future care concerns. When teaching AI, 
+academics should emphasise ethics and humanity first, as AI is a threat to humanity without 
+these ideals. Higher education institutions should also maintain control  over AI, ensuring 
+that it serves rather than dehumanises humanity.  
+ 
+9.       References:  
+Beight, M., & Reddell, S. (2005). NOTE: This PDF document has a handy set of 
+“bookmarks” for it, accessible by pressing the Bookmarks tab on the left side of this 
+window. New York Times, 45(10), 672. https://doi.org/10.1109/MSPEC.2008.4635038  
+Brad Rose Consulting. (2019). Robots Grade Your Essays and Read Your Resumes | Brad 
+Rose Consulting | Programme Evaluation |  MA. https://bradroseconsulting.com/robots -
+grade-your-essays-and-read-your-resumes/ 
+Chin, R. T. (2018). Education in the Artificial Intelligence Era - QS WOWNEWS. 
+https://qswownews.com/education -in-the-artificial-intelligence -era/ 
+Dizikes, P. (2020). How m any jobs do robots really replace? | MIT News | Massachusetts 
+Institute of Technology. https://news.mit.edu/2020/how -many-jobs-robots-replace-0504 
+Drabwell, C. (2018). Ethics in Artificial Intelligence in Education: Who Cares? – OU News. 
+https://ounews.co/ education -languages -health/ethics -in-artificial-intelligence -in-
+education -who-cares/# 
+Edtech. (2020). Successful AI Examples in Higher Education That Can Inspire Our Future 
+| EdTech Magazine. https://edtechmagazine.com/higher/article/2020/01/successful -ai-
+examples -higher-education -can-inspire-our-future 
+Frey, C. B., & Osborne, M. A. (2013). The Future of Employment How susceptible are jobs 
+to computerisation? | Publications | Oxford Martin School. 37 –38. 
+https://doi.org/10.1016/j.techfore.2016.08.019  
+García-Vélez, R., Moreno, B. V., Ruiz -Ichazu, A., Rivera, D. M., & Rosero -Perez, E. 
+(2021). Automating the Generation of Study Teams through Genetic Algorithms Based on 
+Learning Styles in Higher Education. In Advances in Intelligent Systems and Computing: 
+Vol. 1213 AISC. https://doi.org/10.1007/978 -3-030-51328-3_38 
+Global Business Outlook. (2018). Artificial intelligence and employment - Global Business European Jo urnal of Educational Sciences, March 2023 edition Vol.10 No.1  ISSN: 1857 - 6036 
+ 
+32 
+ Outlook. http://www.globalbusinessoutlook.com/artificial -intelligence -and-employment/  
+Guardian News. (2017). (3 ) 'Sophia', the robot, tells the UN: 'I am here to help humanity 
+create the future' - YouTube. https://www.youtube.com/watch?v=cV_D2hC50Kk  
+Hammersley, M. (2012). What is Qualitative Research? The 'What is?' Research Methods 
+Series) Martyn Hammersley: Bloom sbury Academic. 
+https://www.bloomsbury.com/uk/what -is-qualitative -research-9781849666060/  
+Henn, M., Weinstein, M., & Forrest, S. (2005). Uninterested Youth? Young People’s 
+Attitudes towards Party Politics in Britain. Political Studies, 53(3), 556 –578. 
+https://doi.org/10.1111/j.1467 -9248.2005.00544.x  
+Holmes, W. (2018). The ethics of artificial intelligence in education: University Business. 
+https://universitybusiness.co.uk/Article/the -ethics-of-artificial-intelligence -in-education -
+who-care/ 
+Jabar H. Yousif. (2011). Artificial intelligence in e -learning-pedagogical and cognitive 
+aspects. Proceedings of the World Congress on Engineering, 1, 997 –1002. 
+Jlu, J. J. L., & Laurie A, H. (2018). Artificial Intelligence (AI) and Education. 
+www.crs.gov%7C7 -5700 
+Liang, H. , & Zhu, J. J. H. (2017). Big Data, Collection of (Social Media, Harvesting). The 
+International Encyclopaedia of Communication Research Methods, December 1 –18. 
+https://doi.org/10.1002/9781118901731.iecrm0015  
+Ma, Y. & Siau, K.L. (2018). Artificial Intellige nce Impacts on Higher Education. 
+Proceedings of the Thirteenth Midwest Association for Information Systems Conference, 
+May 17-18(September), 1 –6. 
+Mahana, M., Johns, M., & Apte, A. (2012). Automated Essay Grading Using Machine 
+Learning. Machine Learning Ses sion Stanford University, 3 –7. 
+Mellul, C. (2018). Emerging techniques in higher education and the workplace: An 
+assessment.  
+Oblinger, D.G. (2018). What will AI and robotics mean for higher education? - eCampus 
+News. https://www.ecampusnews.com/2018/08/02/w hat-will-ai-and-robotics-mean-for-
+higher-education/  
+Rexford, J. (2018). The role of education in AI (and vice versa) | McKinsey. 
+https://www.mckinsey.com/featured -insights/artificial -intelligence/the -role-of-education -
+in-ai-and-vice-versa 
+Richer, M.H. (198 5). Applications of Artificial Intelligence in Education --A Personal 
+View. Physiologist, 28(5), 428–431. 
+http://libaccess.mcmaster.ca/login?url=https://search.proquest.com/docview/63306556?ac
+countid=12347%0Ahttp://sfx.scholarsportal.info/mcmaster?url_ver=Z 39.88-
+2004&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&genre=article&sid=ProQ:ProQ%3Aeric
+&atitle=Applicatio  
+Saunders, M., Lewis, P., & Thornhill, A. (2009). Understanding research philosophies 
+and... January 2009, 122–161. 
+https://www.researchgate.net/publica tion/309102603_Understanding_research_philosophi
+es_and_approaches  
+Stanford Encyclopaedia of Philosophy. (2020). Epistemology (Stanford Encyclopaedia of 
+Philosophy). https://plato.stanford.edu/entries/epistemology/  
+Stanford University. (2019). Artificial in telligence assessment | Teaching Commons. 
+https://teachingcommons.stanford.edu/resources/teaching/evaluating -students/assessing -European Jo urnal of Educational Sciences, March 2023 edition Vol.10 No.1  ISSN: 1857 - 6036 
+ 
+33 
+ student-learning/artificial -intelligence -assessment  
+Taneri, G. (2020). Research & Occasional Paper Series : CSHE. 6 2020 ARTIFIC IAL 
+INTELLIGENCE & HIGHER EDUCATION : Towards Customised Teaching and 
+Learning , and Skills for an AI World of the Work University of California - Berkeley How 
+the AI World is Evolving. June.  
+Tchaikovsky, A. (2018). [PDF] DOWNLOAD Children of Time BY - Adrian Tchaikovsky 
+Full ePub. Pan Macmillan. https://www.slideshare.net/Philgu776h/pdf -download -children-
+of-time-by-adrian-tchaikovsky -full-epub 
+Treharne, G. J., & Riggs, D. W. (2015). Ensuring Quality in Qualitative Research. In 
+Qualitative Research in Cl inical and Health Psychology (pp. 57 –73). Macmillan Education 
+UK. https://doi.org/10.1007/978 -1-137-29105-9_5 
+Tuomi, I., Cabrera, G., Marcelino, V., Riina, Y., & Punie. (2018). The Impact of Artificial 
+Intelligence on Learning, Teaching, and Education. htt ps://doi.org/10.2760/12297  
+UNESCO. (2020). Combat COVID -19: Keep learning. Together, we are on the move! – 
+UNESCO IITE. https://iite.unesco.org/combating -covid-19-together-we-are-on-the-move/ 
+United Nations. (2018). Sustainable Development Goals .:. Sustai nable Development 
+Knowledge Platform. https://sustainabledevelopment.un.org/?menu=1300  
+Vaishya, R., Javaid, M., Khan, I. H., & Haleem, A. (2020). Artificial intelligence (AI) 
+applications for the COVID -19 pandemic. Diabetes and Metabolic Syndrome: Clinical  
+Research and Reviews, 14(4), 337 –339. https://doi.org/10.1016/j.dsx.2020.04.012  
+Wang, W. & Siau, K. (2017). Impact of Artificial Intelligence , Robotics , Machine 
+Learning, and Automation on the Medical Field. August 4 –6. 
+https://www.researchgate.net/prof ile/Keng_Siau/publication/318913468_Impact_of_Artif
+icial_Intelligence_Robotics_Machine_Learning_and_Automation_on_the_Medical_Field/
+links/5984ef56458515605844f070/Impact -of-Artificial-Intelligence -Robotics-Machine-
+Learning 
+ 
+ 
+INFO:root:--------------------
+INFO:root:Sravya is thinking...
+INFO:root:Done
+INFO:root:[blue]Sravya: 
+INFO:root:The PDF titled "The Impact of Artificial Intelligence on Higher Education: An Empirical Study" by Zouhaier Slimi discusses the growing influence of artificial intelligence (AI) in the field of higher education. Here are the key points from the document:
+
+### Abstract
+- The study explores AI's impact on teaching, learning, assessment, ethics, required skills, and future careers in higher education.
+- It employs a qualitative approach based on a survey of the higher education audience.
+- Findings indicate that AI plays a crucial role in the future of higher education, enhancing the effectiveness and efficiency of educational processes.
+
+### Introduction
+- AI is defined as a branch of computer science focused on creating intelligent systems capable of performing tasks that typically require human intelligence.
+- The paper emphasizes the importance of understanding AI's impact on higher education, especially in light of its role during the COVID-19 pandemic.
+
+### Literature Review
+- AI is increasingly integrated into education, influencing various aspects such as enrollment and curriculum.
+- The paper discusses the dual nature of AI as both a tool and a potential threat to human roles in education.
+
+### Methodology
+- The research uses a qualitative survey targeting students, academic staff, and decision-makers in higher education.
+- A total of 92 participants provided insights into their experiences and perceptions regarding AI in education.
+
+### Findings
+1. **Impact on Learning and Teaching**: 
+   - A significant majority believe AI enhances learning and teaching methods.
+   - AI is seen as more efficient than traditional methods.
+
+2. **Impact on Assessment and Grading**: 
+   - Participants agree that AI improves the accuracy and objectivity of assessments.
+   - AI tools like Turnitin are highlighted for their role in plagiarism detection.
+
+3. **Future Careers**: 
+   - Many participants believe AI will positively impact future job markets, but there are concerns about job displacement.
+   - The need for new skills to meet AI-driven job requirements is emphasized.
+
+4. **Cognitive and Ethical Impacts**: 
+   - The study highlights the importance of integrating ethical considerations into AI education.
+   - Participants express concerns about the potential biases in AI systems and the need for human oversight.
+
+### Recommendations
+- Higher education institutions should integrate AI into curricula while emphasizing ethical considerations.
+- Training for academic staff on AI tools is essential to prepare students for future challenges.
+
+### Conclusion
+- The research underscores the transformative potential of AI in higher education while also calling for a balanced approach that considers ethical implications and the human aspect of education.
+
+### Keywords
+- AI, Higher Education, Impact, Learning, Teaching
+
+This study provides valuable insights into how AI can reshape higher education and the necessary steps institutions must take to adapt to these changes.
+INFO:root:Done
+INFO:root:[green]User: 
